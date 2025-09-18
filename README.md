@@ -1,7 +1,7 @@
 # TrinketMenu-Epoch
 TrinketMenu for Project Epoch.
 
-- Use it with OmniCC for it to display CD's correctly.
+- **Use it with OmniCC for it to display CD's correctly.**
 - /trinket or /trinketmenu - toggle the window.
 - /trinket reset - reset window.
 - /trinket opt - shows the options window.
